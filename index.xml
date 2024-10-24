@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://npulgh.github.io.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Oct 2024 22:46:45 +0800</lastBuildDate>
-    <atom:link href="https://npulgh.github.io.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nastran95docs</title>
-      <link>https://npulgh.github.io.github.io/post/nastran95docs/</link>
+      <link>http://localhost:1313/post/nastran95docs/</link>
       <pubDate>Thu, 24 Oct 2024 22:46:45 +0800</pubDate>
-      <guid>https://npulgh.github.io.github.io/post/nastran95docs/</guid>
-      <description>&lt;p&gt;This is a document repository for Nastran manuals.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/nastran95docs/</guid>
+      <description>&lt;h1 id=&#34;nastran&#34;&gt;Nastran&lt;/h1&gt;&#xA;&lt;p&gt;NASTRAN is a finite element analysis (FEA) program that was originally developed for NASA in the late 1960s under United States government funding for the aerospace industry. The MacNeal-Schwendler Corporation (MSC) was one of the principal and original developers of the publicly available NASTRAN code. [1] [2] NASTRAN source code is integrated in a number of different software packages, which are distributed by a range of companies.&lt;/p&gt;&#xA;&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;&#xA;&lt;p&gt;The 1964 annual review of NASA&amp;rsquo;s structural dynamics research program revealed that the research centers were separately developing structural analysis software that was specific to their own needs. The review recommended that a single generic software program should be used instead. [3] In response, an ad hoc committee was formed. The committee determined that no existing software could meet their requirements. They suggested establishing a cooperative project to develop this software and created a specification that outlined the capabilities for the software. [4]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
