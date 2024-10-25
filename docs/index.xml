@@ -23,10 +23,14 @@
       <description>
         
         
-        &lt;p&gt;This section includes two parts. The first part is a summary of the main concepts and tools used in this&lt;/p&gt;
+        &lt;p&gt;This documents of Nastran 95 include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://npulgh.github.io.github.io/pdfs/NASTRAN_Programmers_Manual.pdf&#34; &gt;NASTRAN Programmers Manual&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://npulgh.github.io.github.io/pdfs/NASTRAN_Users_Manual_2.pdf&#34; &gt;NASTRAN Users Manual 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Python scripts to convert the manuals into markdown files can be found in the following zip file:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://npulgh.github.io.github.io/zips/pdfs_processing.zip&#34; &gt;NASTRAN Users Manual 2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
